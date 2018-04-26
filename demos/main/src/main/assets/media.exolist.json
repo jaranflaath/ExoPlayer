@@ -343,6 +343,10 @@
     "name": "HLS",
     "samples": [
       {
+        "name": "DR Radio",
+        "uri": "INSERT STREAM URL HERE"
+      },
+      {
         "name": "Apple 4x3 basic stream",
         "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
       },
